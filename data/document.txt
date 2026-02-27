@@ -1,0 +1,4 @@
+Python is a high-level programming language.
+It was created by Guido van Rossum.
+Machine learning is a subset of artificial intelligence.
+Transformers are used in NLP tasks.
